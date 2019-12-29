@@ -1,9 +1,18 @@
 import React from 'react'
+import './Support.css'
 
 function Support() {
     return (
         <div>
-            This is the Support component.
+            <h1>Welcome to Apple Support</h1>
+            <form>
+                <input 
+                    id="search" 
+                    type="text" 
+                    placeholder="Search Support" 
+                    name="name"
+                />
+            </form>
         </div>
     )
 }

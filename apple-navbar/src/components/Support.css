@@ -1,0 +1,17 @@
+h1{
+    color:#434546;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+input{
+    border: 1px solid #bbb;
+    font-family: inherit;
+    width: 45%;
+    font-weight: 300;
+    border-radius: 3px;
+    letter-spacing: normal;
+    color:#333;
+    box-sizing: border-box;
+    margin-right:20px;
+    height: 2.5rem;
+}

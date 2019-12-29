@@ -2,3 +2,7 @@ a{
     display: flex;
     flex-direction: column;
 }
+
+.series{
+    font-size:0.8rem;
+}
