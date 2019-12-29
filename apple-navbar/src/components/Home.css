@@ -1,0 +1,18 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 1.7%;
+    background-color: #434546;
+    
+}
+
+nav a{
+    text-decoration: none;
+    color: #DFE0E0;
+    cursor: pointer;
+}
+
+nav a:hover{
+    color:white;
+}
